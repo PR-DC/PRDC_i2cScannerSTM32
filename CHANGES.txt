@@ -1,0 +1,10 @@
+--------------------
+PRDC_i2cScannerSTM32
+Simple I2C scanner for STM32 based boards using Arduino and Arduino_Core_STM32.
+--------------------
+
+Release 1.0.0, 29.12.2021.
+
+- Initial release
+
+--------------------
